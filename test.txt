@@ -5,3 +5,4 @@ add line for conflict at remote
 line 5 in remote
 line 6 in remote
 line 7 in remote
+line 8 in remote
