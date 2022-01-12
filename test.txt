@@ -1,3 +1,4 @@
 line 1
 line 2
-Line added at local
+Line added at loca
+add line for conflict at remote
