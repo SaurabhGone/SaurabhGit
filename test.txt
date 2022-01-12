@@ -2,3 +2,6 @@ line 1
 line 2
 Line added at loca
 add line for conflict at remote
+line 5 in remote
+line 6 in remote
+line 7 in remote
